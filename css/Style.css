@@ -45,6 +45,7 @@
 
 .jumbotron{
     margin-bottom:0;
+    background-color:  #eeecda;
 }
 
 .banner{
@@ -101,4 +102,9 @@ h3{
     border-color:  #f08a5d;
     color: #323232;
     background-color: #eeecda;
+}
+
+
+.search-btn{
+    max-width: 100%;
 }
